@@ -8,13 +8,13 @@
 
 - [x] Aula 01 - Introdução ao Dart/Flutter - 22/02/2024
 - [x] Aula 02 - Criando meu primeiro App - 29/02/2024
-- [ ] Aula 03 - Criando App - Etanol x Gasolina - 07/03/2024
-- [ ] Aula 04 - Criação de Widgets; Mensagem de Alerta (AlertDialog)
-- [ ] Aula 05 - Aplicativo para acesso a uma API JSON
-- [ ] Aula - Criando temas e personalização de widgets
-- [ ] Aula - Padrão BloC (Business Logic Object Components)
-- [ ] Aula - Drawer, AppBar Actions e Revisão Bimestral
-- [ ] Aula - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions
+- [x] Aula 03 - Criação de Widgets; Navegação entre Telas; Padrão BloC (Business Logic Object Components) - 07/03/2024
+- [x] Aula 04 - Criando App - Etanol x Gasolina - BloC - 14/03/2024
+- [x] Aula 05 - Criando App - Etanol x Gasolina - BloC - Mensagem de Alerta (AlertDialog) - Drawer - 21/03/2024
+- [x] Aula 06 - Aplicativo para acesso a uma API JSON - PokeAPI - 04/04/2024
+- [x] Aula 07 - Aplicativo para acesso a uma API JSON - PokeAPI - 11/04/2024
+- [x] Aula 08 - Criando temas e personalização de widgets - 18/04/2024
+- [ ] Aula 09 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 02/05/2024
 - [ ] Aula - Refatoração do Projeto de Banco para utilizar BloC
 
 ### Tecnologias
