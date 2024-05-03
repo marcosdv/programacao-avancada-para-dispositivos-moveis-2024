@@ -14,8 +14,10 @@
 - [x] Aula 06 - Aplicativo para acesso a uma API JSON - PokeAPI - 04/04/2024
 - [x] Aula 07 - Aplicativo para acesso a uma API JSON - PokeAPI - 11/04/2024
 - [x] Aula 08 - Criando temas e personalização de widgets - 18/04/2024
-- [ ] Aula 09 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 02/05/2024
-- [ ] Aula - Refatoração do Projeto de Banco para utilizar BloC
+- [x] Aula 09 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 02/05/2024
+- [ ] Aula 10 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 09/05/2024
+- [ ] Aula 11 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 16/05/2024
+- [ ] Aula 12 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 23/05/2024
 
 ### Tecnologias
 
