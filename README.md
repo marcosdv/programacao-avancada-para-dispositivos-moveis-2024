@@ -19,7 +19,7 @@
 - [x] Aula 11 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 16/05/2024
 - [x] Aula 12 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 23/05/2024
 - [x] Aula 13 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 28/05/2024
-- [ ] Aula 14 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 06/06/2024
+- [x] Aula 14 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions - 06/06/2024
 
 ### Tecnologias
 
